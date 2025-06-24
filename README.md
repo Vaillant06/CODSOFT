@@ -19,7 +19,7 @@
 2.CSS3
 
 ## Live Demo
-[🔗 Click here to view the live site](#)  
+[https://vaillant06.github.io/CodSoft/] 
 
 ## Video Demo
 [▶ Watch the project demo](#)
