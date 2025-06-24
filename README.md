@@ -1,4 +1,4 @@
-# CodSoft
+# CODSOFT
 -This is my project repository for the "CODSOFT" Internship done during my summer vacation 2025.
 
 ## Personal profolio website: Level-1: Task-1.
