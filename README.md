@@ -29,7 +29,7 @@
 
 ## 📬 Contact
 - 📧 Email: sreenath2410530@ssn.edu.in
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](#)
+- 🔗 LinkedIn: [linkedin.com/in/sreenath-g-81414a326/](#)
 
 ## 📢 Hashtags for LinkedIn Post
 `#codsoft` `#webdevelopment` `#portfolio` `#internship`
