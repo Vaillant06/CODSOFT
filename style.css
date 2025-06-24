@@ -1,0 +1,104 @@
+body{
+            min-height: 100vh;
+            background: linear-gradient(to bottom right, #ffffff, #cce0ff); /* soft sky blue */
+        }
+        
+        header{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        header h1{
+            font-weight: bolder;
+        }
+
+        .tagline{
+            font-style: italic;
+            margin-top: 20px;
+        }
+
+        .navigation {
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+            margin-top: 30px;
+            margin-right: 20px;
+        }
+
+        .navigation a {
+            color: white;
+            text-decoration: none;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+            position: relative;
+            cursor: pointer;
+            transition: 0.3s ease-in-out;
+        }
+
+        .navigation a:hover {
+            transform: scale(1.1);
+        }
+
+        .navigation a::after {
+            content: "";
+            position: absolute;
+            bottom: -3px;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            border-radius: 20px;
+            background-color: yellow;
+            opacity: 0;
+            transition: 0.3s ease-in-out;
+        }
+
+        .navigation a:hover::after {
+            opacity: 1;
+        }
+
+        .ABOUT{
+            margin-left: 10px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        .ABOUT img{
+            border-radius: 10px;
+        }
+
+        .ABOUT p{
+            margin-top: 30px;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 24px;
+        }
+
+        .SKILLS h2{
+            margin-left:10px;
+        }
+
+        li{
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .PROJECTS{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: 0.4s ease-in;
+        }
+
+        .card:hover{
+            transform: scale(1.05);
+            transition: 0.4s ease-out;
+        }
+
+        .RESUME a{
+            text-decoration: none;
+        }
+
+        .CONTACT a{
+            text-decoration: none;
+        }
