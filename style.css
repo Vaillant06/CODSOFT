@@ -1,8 +1,9 @@
 body{
-     min-height: 100vh;
-     background: linear-gradient(to bottom right, #ffffff, #cce0ff); /* soft sky blue */
+    font-family: 'Poppins';
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, #ffffff, #cce0ff);/
 }
-
+        
 header{
     display: flex;
     flex-direction: row;
@@ -15,7 +16,6 @@ header h1{
 
 .tagline{
     font-style: italic;
-    margin-top: 20px;
 }
 
 .navigation {
@@ -30,8 +30,7 @@ header h1{
 .navigation a {
     color: white;
     text-decoration: none;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+        font-size: 20px;
     position: relative;
     cursor: pointer;
     transition: 0.3s ease-in-out;
@@ -58,37 +57,9 @@ header h1{
     opacity: 1;
 }
 
-.About{
-    margin-left: 10px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.About img{
-    border-radius: 10px;
-}
-
-.About p{
-    margin-top: 30px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 24px;
-}
-
-.Skills h2{
-    margin-left:10px;
-}
-
 li{
     font-size: 20px;
     margin-bottom: 10px;
-}
-
-.Projects{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    transition: 0.4s ease-in;
 }
 
 .card:hover{
@@ -96,11 +67,7 @@ li{
     transition: 0.4s ease-out;
 }
 
-.Resume a{
-    text-decoration: none;
-}
-
-.Contact a{
+a{
     text-decoration: none;
 }
 
