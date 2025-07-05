@@ -1,4 +1,4 @@
-# CODSOFT
+# CODSOFT-Task1
 -This is my project repository for the "CODSOFT" Internship done during my summer vacation 2025.
 
 ## Personal profolio website: Level-1: Task-1.
@@ -27,9 +27,9 @@
 ## Goal
 - The main goal of the project is to learn to use HTML and CSS and to create a responsive website and user-friendly design. It also serves as a showcase of my capabilities to future collaborators and employers.
 
-## 📬 Contact
-- 📧 Email: sreenath2410530@ssn.edu.in
-- 🔗 LinkedIn: [https://www.linkedin.com/in/sreenath-g-81414a326/]
+## Contact
+- Email: sreenath2410530@ssn.edu.in
+- LinkedIn: [https://www.linkedin.com/in/sreenath-g-81414a326/]
 
-## 📢 Hashtags for LinkedIn Post
+## Hashtags for LinkedIn Post
 `#codsoft` `#webdevelopment` `#portfolio` `#internship`
